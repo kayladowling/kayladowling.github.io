@@ -6,7 +6,7 @@ permalink: /about/
 
 <!--Some information about you!-->
 
-### More Information
+<!--### More Information-->
 
 Based in New Orleans, Louisiana USA
 
