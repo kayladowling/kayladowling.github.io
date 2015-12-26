@@ -8,30 +8,32 @@ Big O notation is used in computer science and mathematics to describe how algor
 
 Even though not always possible, Constant time complexity is goal to strive for when implementing code. Then, Logarithmic and Linear. Quadratic is one of the worse for time complexity, but sometimes unavoidable.  
 
-
+Constant:
 ![Imgur](http://i.imgur.com/2APo556.png)
-Example:
+Constant Example:
 ![Imgur](http://i.imgur.com/K2CBswi.png)
 
 
-
-
+Logarithmic:
 ![Imgur](http://i.imgur.com/TW9cUB4.png)
-Example:
+
+Logarithmic Example:
 ![Imgur](http://i.imgur.com/DjQBRiO.png)
 
 
 
-
+Linear:
 ![Imgur](http://i.imgur.com/CBaDc57.png)
-Example:
+
+Linear Example:
 ![Imgur](http://i.imgur.com/9IkCkk2.png)
 
 
 
-
+Quadratic:
 ![Imgur](http://i.imgur.com/evlFGVx.png)
-Example:
+
+Quadratic Example:
 ![Imgur](http://i.imgur.com/GBAqhfM.png)
 
 By understanding time complexity at basic level gives you tools to write better code. For more information on common algorithms’ time complexity: http://bigocheatsheet.com/
