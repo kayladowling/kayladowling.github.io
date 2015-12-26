@@ -37,4 +37,4 @@ Example:
 Example:
 ![Imgur](http://i.imgur.com/GBAqhfM.png)
 
-By understanding time complexity at basic level gives you tools to write better code. For more information on common algorithms’ time complexity: http://bigocheatsheet.com/
+By understanding time complexity at a basic level gives you the tools to write better code. For more information on common algorithms’ time complexity: http://bigocheatsheet.com/
