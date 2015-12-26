@@ -10,14 +10,15 @@ Even though not always possible, Constant time complexity is goal to strive for 
 
 
 ![Imgur](http://i.imgur.com/2APo556.png)
-Constant Time Complexity Example:
+
+Example:
 ![Imgur](http://i.imgur.com/K2CBswi.png)
 
 
 
 ![Imgur](http://i.imgur.com/TW9cUB4.png)
 
-Logarithmic Time Complexity Example:
+ Example:
 ![Imgur](http://i.imgur.com/DjQBRiO.png)
 
 
@@ -25,7 +26,7 @@ Logarithmic Time Complexity Example:
 
 ![Imgur](http://i.imgur.com/CBaDc57.png)
 
-Linear Time Complexity Example:
+Example:
 ![Imgur](http://i.imgur.com/9IkCkk2.png)
 
 
@@ -33,7 +34,7 @@ Linear Time Complexity Example:
 
 ![Imgur](http://i.imgur.com/evlFGVx.png)
 
-Quadratic Time Complexity Example:
+Example:
 ![Imgur](http://i.imgur.com/GBAqhfM.png)
 
 By understanding time complexity at basic level gives you tools to write better code. For more information on common algorithms’ time complexity: http://bigocheatsheet.com/
