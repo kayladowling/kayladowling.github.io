@@ -1,0 +1,46 @@
+---
+layout: post
+title: Simple Server DIY
+---
+
+[Imgur](http://i.imgur.com/zrUQ4jR.png)
+
+The Express framework was a project of TJ Holowatchuk. A web application of Node.js, Express has a powerful set of features to make an easy server.
+
+[Imgur](http://i.imgur.com/bVlrXbT.png)
+
+If you you have not install Node.js, you will need to download it by visiting their website, https://nodejs.org. The installation of Node.js includes a package manager known as npm.
+
+[Imgur](http://i.imgur.com/B493ENO.png)
+
+For our simple server, you will need a server.js and index.html files. I would recommend putting these files into a folder.
+
+[Imgur](http://i.imgur.com/BoNIBcV.png)
+
+[Imgur](http://i.imgur.com/6KSMx79.png)
+
+[Imgur](http://i.imgur.com/s3RuwiY.png)
+
+Using your command line, get into the directory with the server.js and index.html files are location.
+
+[Imgur](http://i.imgur.com/Gjc1hLW.png)
+
+example here
+
+After you
+
+
+[Imgur](http://i.imgur.com/ZI6pWxh.png)
+
+Inside your command line, type in the following.
+
+[Imgur](http://i.imgur.com/fI3PizV.png)
+
+[Imgur](http://i.imgur.com/6xdmhWd.png)
+
+[Imgur](http://i.imgur.com/JbkF7rE.png?1)
+
+Type the below into your browser, and you should see "hello world" page.
+[Imgur](http://i.imgur.com/kfoioiv.png)
+
+[Imgur](http://i.imgur.com/SZXujrR.png)
