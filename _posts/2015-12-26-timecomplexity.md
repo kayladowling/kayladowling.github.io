@@ -3,7 +3,7 @@ layout: post
 title: The Basics of Time Complexity 
 ---
 
-#The Basics of Time Complexity#
+
 
 The wonderful thing about solving an algorithm is there are generally various solutions. Many ask what is the best solution? Opinions on the best may be impacted by personal preferences, but the efficiency of your code is most important. 
 Big O notation is used in computer science and mathematics to describe how algorithms respond to different inputs. Time Complexity is the relation of input size and the algorithm’s execution time. In Javascript, the input usually refers to an array or object. This blog post will cover four of the most basic types of time complexities of Big O notation: Constant, Logarithmic, Linear, and Quadratic. 
