@@ -1,4 +1,25 @@
-# Jekyll Now
+# Javascript focused blog
+
+Using Jekyll Now, I created a simple, javascript focused blog to share things I had learned to help other future devleopers. 
+
+**BLOG URL:** github.com/kayladowling
+
+## Blog posts
+
+The blog posts are located in the posts directory.
+
+_Sadly, no additional blog posts have been created since 2016_
+
+* Using Reduce as a Counter
+* A Quick Overview of BackBone.JS
+* The Basics of Time Complexity
+* AngularJS $scope & this
+* Simple DIY Sever using node and express
+
+
+## Documentation for Jekyll Now
+
+Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
