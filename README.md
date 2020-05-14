@@ -1,6 +1,6 @@
 # Javascript focused blog
 
-Using Jekyll Now, I created a simple, javascript focused blog to share things I had learned to help other future devleopers. 
+Using Jekyll Now, I created a simple, javascript focused blog to share things that I had learned to help other future devleopers. 
 
 **BLOG URL:** http://kayladowling.github.io/
 
